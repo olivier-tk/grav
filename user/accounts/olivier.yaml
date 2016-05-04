@@ -1,0 +1,11 @@
+email: olivier.moreno@gmail.com
+fullname: 'Olivier Moreno'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$SwyJZ.nehVVGihnqiGlLnuQarhd2zm9HiYb7ByVtRQ2r0Ei2bQu/y
